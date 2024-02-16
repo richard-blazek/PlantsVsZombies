@@ -3,7 +3,7 @@
 int main()
 {
 	console::SetTitle("Plants vs. Zombies");
-	uint16 request=0;
+	int request=0;
 	for(;;)
 	{
 		cout<<"Kterou uroven chcete hrat?"<<endl;
